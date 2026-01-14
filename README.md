@@ -38,7 +38,7 @@ git clone: https://github.com/wqiluc/credito-imobiliario.git
 👨‍💻 Autor: <br>
 Desenvolvido por: <br>
 -**Lucas Paguetti Pereira**
-- **Cesar School - ADS Regular**💻🎓🧡
+-**Cesar School - ADS Regular**💻🎓🧡
 
 <p align="center">
   <a href="https://www.instagram.com/lucpaguetti/" target="_blank">
