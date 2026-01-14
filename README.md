@@ -7,7 +7,7 @@ O objetivo é oferecer ao usuário uma ferramenta capaz de avaliar cenários fin
 
 ---
 
-<h1 align="center">⚡️ Funcionalidades Principais:
+<h1 align="center">⚡️ Funcionalidades Principais: </h1>
 
 - ✅ Coleta estruturada de informações do investidor (valor, idade, prazo e perfil de risco); 
 - ✅ Aplicação automática das taxas de rendimento correspondentes a cada perfil;
